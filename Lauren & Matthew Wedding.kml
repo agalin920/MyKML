@@ -1,0 +1,948 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="1SGdqXpvKrtniex0iOnLHhxFMM0JWQ7o">
+	<name>Lauren &amp; Matthew Wedding</name>
+	<description>We wanted to give you an overview of where we&apos;ll be getting married, as well as the main two areas where we think you&apos;ll be most comfortable during your stay. </description>
+	<gx:CascadingStyle kml:id="__managed_style_2FC1216E8111BFA9D4C3">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.18.6/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=66bb6a&amp;id=2006&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_1878CDB5CA11BFA9D4C3">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.18.6/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=66bb6a&amp;id=2006&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_030E595E7811BFA9D4C3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1878CDB5CA11BFA9D4C3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_2FC1216E8111BFA9D4C3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_2DCFCF487911BFA9D4C2">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.18.6/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=388e3c&amp;id=2074&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+				<color>ffa7d6a5</color>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_199242C2DA11BFA9D4C2">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.18.6/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=388e3c&amp;id=2074&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+				<color>ffa7d6a5</color>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_02F83A3AED11BFA9D4C2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_199242C2DA11BFA9D4C2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_2DCFCF487911BFA9D4C2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_8C4763FBBC11BFA9D4C1">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.18.6/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=ab47bc&amp;id=2174&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+				<color>ffd893ce</color>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_7B614D94DB11BFA9D4C1">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.18.6/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=ab47bc&amp;id=2174&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+				<color>ffd893ce</color>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_37A237B27411BFA9D4BF">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_424C9277DD11BFA9D4BF</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_0DB840A1B011BFA9D4C0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="__managed_style_6E0CBA2E4811BFA9D4C1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_7B614D94DB11BFA9D4C1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_8C4763FBBC11BFA9D4C1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_45787E52DB11BFA9D4C1">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.18.6/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=5c6bc0&amp;id=2174&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_2DB673624511BFA9D4C1">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.18.6/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=fbc02d&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_1C28ED70C111BFA9D4C1">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.18.6/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=fbc02d&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0E6205610311BFA9D4C1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1C28ED70C111BFA9D4C1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_2DB673624511BFA9D4C1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_31A653056F11BFA9D4C0">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.18.6/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=00796b&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_2CFFF06C8511BFA9D4C0">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.18.6/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=00796b&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_5F26152AFF11BFA9D4C1">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.18.6/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=5c6bc0&amp;id=2174&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_109AE2700A11BFA9D4C0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_2CFFF06C8511BFA9D4C0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_31A653056F11BFA9D4C0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="__managed_style_37889DA6C411BFA9D4C1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_45787E52DB11BFA9D4C1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_5F26152AFF11BFA9D4C1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_0DB840A1B011BFA9D4C0">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.18.6/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=303f9f&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_05287F14D811BFA9D4BF">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1312A2A08111BFA9D4BF</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_2CF4DEA8AB11BFA9D4BF</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_424C9277DD11BFA9D4BF">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.18.6/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=303f9f&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_2CF4DEA8AB11BFA9D4BF">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.18.6/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=d32f2f&amp;id=2156&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_1312A2A08111BFA9D4BF">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.18.6/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=d32f2f&amp;id=2156&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_08EF9A12CF11BFA9D4BE">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_16F930002A11BFA9D4BE</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_21B1A9375211BFA9D4BE</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_21B1A9375211BFA9D4BE">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.18.6/slide_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<bgColor>ff4f4737</bgColor>
+				<displayMode>fullscreen</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_16F930002A11BFA9D4BE">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.18.6/slide_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<bgColor>ff4f4737</bgColor>
+				<displayMode>fullscreen</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<Placemark id="0FC08CB39A1181DE33D2">
+		<name>Welcome to Hacienda Chekul</name>
+		<description><![CDATA[<div>This is where the wedding ceremony and reception will take place on Saturday, November 7th, 2020.&nbsp;<br></div><div><br></div><div><br></div>]]></description>
+		<styleUrl>#__managed_style_08EF9A12CF11BFA9D4BE</styleUrl>
+		<gx:Carousel>
+			<gx:Image kml:id="hosted_image_QUYyVEFMcjBSRkJwdldYL200UTVEZk8ySzQ3RmpNTzdKT1BKSzJtejU2WW9zTkw1eTMzQW0xV0xMMmI4bi9rOHFIL2U0ZlhaS3lZdFJhWllacExRS2xTQ3ljcncvcDdXREV4WTN1OUl5TC9hSHpCUXVEYStmdzhvWnRUTzRBUHBaTUJGZXdvM0FNUXllR1cwanJPUDQ4S3lJdmlQa0Yzek4yL0RxeEN5T1Q4UmhSS0VMMytPZjhKVUh1R3Q2NFdMdnU5b2lTb1hPZjJ6NGNhTVB0ODJEZkEvMmxnTDVBSHdPUkRUaktvNW5XS3RZbUlLQnk0SUs5WjNYMHBibGMwbzduR3k2RnlaTFpkNUNsYVUvSkRBWHRyRTh2NTlzbmN6bFE9PQ">
+				<gx:ImageUrl>https://doc-00-0k-mymaps.googleusercontent.com/untrusted/hostedimage/24k6iaklmljp4bpqgc1f0lrsds/7ev2ejk302kqfskvkjd09su7bc/1582867503750/Ys8uGmgOGwLpmMOOFso3QAVz-ncm48wh/03000459418287252325/5AF2TALq0NqXRaonBbLjkWSHQJK3bqXs6CgoM30b9aof8R61B3onk_C6TMkyPaZZBZNSckdZHesaaWX_a3s6JX7kaJsh-V5BWMJ4nLFpjpIS8dJaKKV132bjT6YhruaFfDHnOQVDL_KiO9t3sKwB0_SPO39KrQyU27oR6QxRKjLJUdZJgfSahOf9xC9PY5vd3z6ZVnv8HKCK-ifTC_967P8jF8tIm_5HfWgW9X3lU50BVMwG7QegCqtrC8MKvxFbpgwIZAfF_fcUPsIWofVM1fuHrvdNixZ3VZg?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+		</gx:Carousel>
+	</Placemark>
+	<Placemark id="09E79037511181DBA36F">
+		<name>Good News</name>
+		<description><![CDATA[<div>It's in the Sian Ka'an biosphere, south of Tulum's hotel zone.&nbsp; There are no neighbors around for miles, so we can have all the fun without disturbing anyone.&nbsp;<br></div><div><br></div><div><br></div>]]></description>
+		<styleUrl>#__managed_style_08EF9A12CF11BFA9D4BE</styleUrl>
+		<gx:Carousel>
+			<gx:Image kml:id="hosted_image_QUYyVEFMb1U4VFlKS2d5dU5HWTg0aVRpOWlxSFRhTExjTHE2VDZMSmZPNlBXdXVOUDBuTGtqd09qdjN1U2Y1RWhLeDhPNXh5eU82YzlGYTlwdUJJblEvNGhKcXdsRGU5WE9NMFQ1dkMrVG5KMlRTc0ZzdHIyemJMcVZyZGV1cFVKNy9FNTJ4MEtVRVVzUVBTOHY4S1cyc0RaT0JKelJ5Y3lqNlMrbWtJSmF0WFZSMFZjZ0RyMjFVam1lQkE3dW5yN1VQUTVNbldWT042cUV0VUZqTW9pYk9kYUJYcFIvSmJ6T3NnNDlPTS8zN002NC9wT1E5T0RKYmNpbWRxYThiazcxQ0VnVzRiKzNtaE5OSXVXYjZKOWJEaVR6Z3RFWlBjMmc9PQ">
+				<gx:ImageUrl>https://doc-0o-0k-mymaps.googleusercontent.com/untrusted/hostedimage/24k6iaklmljp4bpqgc1f0lrsds/1n70s3r7s5r94q32spr4f21598/1582867503750/Ys8uGmgOGwLpmMOOFso3QAVz-ncm48wh/03000459418287252325/5AF2TALo4DsRNL3fNpiUslWgAj1qPhiPqFaTJyA6xrhShabDnbruk-2vI0YgZHpU0PkeSXf-oTcGisoB_43d1diYr_6vghXmxgobeeus_Q3PPJgY1LWEcNvqM6CAzuNl6cRuySKtWV-MxX5RXLcj6gGscytygEQpb9AhaEr3dLwNBC-UoO6K2KdGlUbVXhNewWD0GbVzS4QikeEB1tIggmtGObALO4_lrBZ-XFEVi0yA5IrmlMKr9fLHAfP_VoEMBT9U2PG_8XFjoXIl_yhsEfRGyiWWqrtIoGQ?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+		</gx:Carousel>
+	</Placemark>
+	<Placemark id="031B22F4CC1181E06898">
+		<name>Hacienda Chekul</name>
+		<description><![CDATA[<div>However, it also means there aren't many places to stay close by unless you're renting a villa in the Sian Ka'an, which you can if you want to. More on that at the end of the presentation.<br></div>]]></description>
+		<gx:mid>/g/11fzq5bf85</gx:mid>
+		<gx:fid>0x8f4fd96b6e85e36b:0x18c6c1e4d23c5e8c</gx:fid>
+		<LookAt>
+			<longitude>-87.47805489999999</longitude>
+			<latitude>20.0652363</latitude>
+			<altitude>5.879439578053463</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1000</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05287F14D811BFA9D4BF</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-87.47805489999999,20.0652363,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="01072E69A61181EDC1B4">
+		<name>Tulum</name>
+		<description><![CDATA[<div>For those who haven't been, this is the town of Tulum. It is about 45 minutes from Hacienda Chekul. We don't recommend you plan to stay here if this is your first visit to Tulum. There are two areas we do recommend.&nbsp;<br></div>]]></description>
+		<gx:mid>/m/02q9y44</gx:mid>
+		<gx:fid>0x8f4fd40310e42a4b:0xeedc0db93ff9ab7</gx:fid>
+		<LookAt>
+			<longitude>-87.47187595</longitude>
+			<latitude>20.20962</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>4000</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_37A237B27411BFA9D4BF</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-87.46535019999999,20.2114185,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0D98380E251181F23026">
+		<name>Aldea Zama</name>
+		<description><![CDATA[<div>One place we recommend you stay is at an apartment, boutique hotel or condo here in Aldea Zama. It's about 35-40 minutes from Chekul and you'll find lots of amazing places here for every budget, like <a href="https://www.airbnb.com/rooms/14775257?s=67&amp;shared_item_type=1&amp;virality_entry_point=1&amp;sharer_id=237923464&amp;unique_share_id=a2e8df80-3ccc-409f-b7af-0a44cfdecebc&amp;source_impression_id=p3_1581833405_DhpnYJfhuvz9ez6U">this one</a>,&nbsp;&nbsp;<a href="https://www.airbnb.com/rooms/38928744?s=67&amp;shared_item_type=1&amp;virality_entry_point=1&amp;sharer_id=237923464&amp;unique_share_id=8d6c9519-72a3-4bc4-aacc-38770dc1dbce&amp;source_impression_id=p3_1581833319_ff%2Blh99SG5RmsOHV">this one</a>, <a href="https://www.airbnb.com/rooms/31097250?adults=1&amp;s=24&amp;ref_device_id=6319c49d5c1c22c1479dd2289690254b18a5ae15&amp;user_id=237923464&amp;_branch_match_id=757473991155772540&amp;source_impression_id=p3_1581834099_OcFSUPpnO2s%2BjPPm">this one</a>, or <a href="https://www.airbnb.com/rooms/32696827?s=67&amp;shared_item_type=1&amp;virality_entry_point=1&amp;sharer_id=237923464&amp;unique_share_id=2e3e65a6-2203-407d-9993-2d21edd7568d&amp;source_impression_id=p3_1581833507_IK3RoQDZBDfZZ1pq">this one</a>. You can book accommodations through Airbnb or other online platforms. Lauren and I stayed <a href="https://www.airbnb.com/rooms/39675488?s=67&amp;shared_item_type=1&amp;virality_entry_point=1&amp;sharer_id=237923464&amp;unique_share_id=92cf6245-70cf-49ec-85ea-66cb035258fe&amp;source_impression_id=p3_1581833838_ZALQ08BB9ZW%2B%2FGNh">at this place </a>last November and it was great. <br></div>]]></description>
+		<gx:mid>/g/1hhkft0br</gx:mid>
+		<gx:fid>0x8f4fd14ea29d500d:0x19b0d03dfbdcf283</gx:fid>
+		<LookAt>
+			<longitude>-87.454707</longitude>
+			<latitude>20.1997998</latitude>
+			<altitude>0</altitude>
+			<heading>120</heading>
+			<tilt>60</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>2000</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_109AE2700A11BFA9D4C0</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-87.454707,20.1997998,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="07B86E230F1181F2C6EA">
+		<name>Zona Hotelera Tulum</name>
+		<description><![CDATA[<div>The other option of course is to stay at a hotel or villa in the Zona Hotelera (Hotel Zone). The hotel zone and Hacienda Chekul are on the same road, though it can take 30 minutes to get there if you're on the north end of the beach whereas it's just over 10 minutes if you stay on the south end.&nbsp; The hotel zone is full of places to visit, restaurants, and stores all along the beach. Here are some to consider...<br></div><div><br></div>]]></description>
+		<gx:mid>/g/11flplgmhp</gx:mid>
+		<gx:fid>0x8f4fd6d3d151f13b:0x5bfe1089f9d52667</gx:fid>
+		<LookAt>
+			<longitude>-87.44775249999999</longitude>
+			<latitude>20.1723839</latitude>
+			<altitude>0</altitude>
+			<heading>200</heading>
+			<tilt>75</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>4000</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E6205610311BFA9D4C1</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-87.4435216,20.1866833,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0E03DA9C8511BF79015E">
+		<name>Papaya Playa Project</name>
+		<description><![CDATA[<div>Although it's the hotel furthest from Hacienda Chekul in the hotel zone, <a href="https://www.papayaplayaproject.com/">Papaya Playa Project</a> is one of the most popular places to be in the area.<br></div>]]></description>
+		<gx:mid>/g/1vg_8bzq</gx:mid>
+		<gx:fid>0x8f4fd74b3025cfe9:0xe0c14ab003ca4613</gx:fid>
+		<LookAt>
+			<longitude>-87.4450933</longitude>
+			<latitude>20.1813119</latitude>
+			<altitude>0</altitude>
+			<heading>200</heading>
+			<tilt>75</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>500</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_37889DA6C411BFA9D4C1</styleUrl>
+		<gx:Carousel>
+			<gx:Image kml:id="hosted_image_QUYyVEFMclFBc0lDVyszQlpPTEhuNVpWVHd0UlQxREJIN1ZxbEQvWEZEcThSVno2QTBFb1Z3TjFjc1lRSW1WSG9DbmJQT3dHNWR6Um96OE5HK3FJQzZKa3J2THBpaFhHSzI5YWN2T1hZM3B3OHlQSEFGTU94a3g4d3FESEh5K3U0WllSQ3gzV3RWODRSTVFiM29DQ1N4ZUpsclB5YUNqOFZJNXhJd05XNngxckoyaE1qVmpoNTY2KzJYNzRYdkthZ3d1L200d0ZZK3FPU1M4T0xLZXNaeXBFelQyQ25WU1lRVUtUcWlLRnJBbGZ0dHl1RHNwZW0vMDRlVjlEVVZKWWV4UnYwS1ZiZmRmK0lPcjZtb2lPVmNYZlU2cmdid2NCM2c9PQ">
+				<gx:ImageUrl>https://doc-08-0k-mymaps.googleusercontent.com/untrusted/hostedimage/24k6iaklmljp4bpqgc1f0lrsds/sivp1tqe4212h3bf0do6otb4bo/1582867503750/Ys8uGmgOGwLpmMOOFso3QAVz-ncm48wh/03000459418287252325/5AF2TALq4a3KsK8pJcOhGFZP2CwieW8Ta-1IjjR---LdPoFCPPeUQXPHC683Nkr0NtC__W-QN9UVgZrL8TFY6GSLSpkQ2Df5kYVOk453OyYZ8IDeIen0-SwR8Ax7p6bCsu-s03szM1ynTuDqtk40HibTVcXDE3ID_v2oqaco2QDGQiYW-jqu8SNlmdRn8pSJNNCpdA4EGxJpwFQJV9RH7Rn34xzSC4hKzQJcDWLAGekRJ43OZMb-90_VC4YrtrdGHTeS_6AON-CyZRU81Ov47AgBKevFBcsVHsQ?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+		</gx:Carousel>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-87.4450933,20.1813119,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="01CDFC4E84118211CD89">
+		<name>Selina Los Lirios Tulum</name>
+		<description><![CDATA[<div><a href="https://www.google.com/search?q=selina+los+lirios+tulum&amp;oq=selina+los+lirios+tulum&amp;aqs=chrome.0.69i59j0l4j69i60l3.1736j0j4&amp;sourceid=chrome&amp;ie=UTF-8">Selina Los Lirios</a><br></div><div>We stayed here once and we were very happy. There's a great restaurant called Mia on site.&nbsp;<br></div>]]></description>
+		<gx:mid>/g/11fm36yjtg</gx:mid>
+		<gx:fid>0x8f4fd1ad4a523451:0x1238cb33f2288c01</gx:fid>
+		<LookAt>
+			<longitude>-87.45684539999999</longitude>
+			<latitude>20.1554652</latitude>
+			<altitude>0</altitude>
+			<heading>200</heading>
+			<tilt>75</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>500</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_6E0CBA2E4811BFA9D4C1</styleUrl>
+		<gx:Carousel>
+			<gx:Image kml:id="hosted_image_QUYyVEFMb0dleFZ4NFFLZXNXUFRMNldJblh0WE5JZVQ4Q3FQaXFoQUQxSVovVXJmZmRZYW9sclFuZlVSRXI5NjFTbnNOSUdzUW9aQzFKR2hKTncrc29JSkRHaVdxMVFqbnJ6U1QwMXJ5bHlSamhQYUIyakJESDVDUTdEajRRM25rb1AyTWxOMkNXeDJXOVE1NkpuVE1WWEZ1dSthT2wzRlVSNXoxVFFwMlZYRWl4TEV1NFh2ak9Zc1hFREwyK0wrMlh0czZ6TlJQSGVKN2VEcndqem1iS0tXZXR0azhKQk5kbkNLMHFmMGVPMXRxRzhQRGwybHFaYU0rUUI2RUhWeWJQS1hsbzIxWUFid1d4OVdqenB6MStJZGY1eVZ1LzJnNWc9PQ">
+				<gx:ImageUrl>https://doc-04-0k-mymaps.googleusercontent.com/untrusted/hostedimage/24k6iaklmljp4bpqgc1f0lrsds/mcv7aio3gkvof24ndtnhaaj79g/1582867503750/Ys8uGmgOGwLpmMOOFso3QAVz-ncm48wh/03000459418287252325/5AF2TALqD2DSM0sDFRDfZ-EK_Nxqt-xrrZnXmXgDKATvoLn68kMi5TKoNtxv8QPUWAeWrTmSMQ7c4ld3zr238ariNElSRyUKhC3Gb0UVZFDjvbxRMT-6lnLEw_Vi3AmvpkOgb9RafIvCsXyl-VvlHU9FJUzuDdtTxiYdGoWC1mhGK5HQ7PcvWrEx6k2kD_oCQHChhxE8lDFJxY3GKeG2t2LQDAQme9gxslEIsM9ez2ssA2Uy96yKo0HOw2WsEnIBnXRoxBinz8qYUQyXjat1hYynMrpJsHZRr3Q?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+		</gx:Carousel>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-87.45684539999999,20.1554652,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="077EFCF91911821486B2">
+		<name>Ahau Tulum</name>
+		<description><![CDATA[<div><a href="https://www.ahautulum.com/">Ahau Tulum</a> (make sure you're looking at the one on the beach, not the one in town)<br></div>]]></description>
+		<gx:mid>/g/113hzfm_9</gx:mid>
+		<gx:fid>0x8f4fd0cc7bdb847d:0x6fdac9f6376f3ee0</gx:fid>
+		<LookAt>
+			<longitude>-87.4574897</longitude>
+			<latitude>20.1522214</latitude>
+			<altitude>0</altitude>
+			<heading>200</heading>
+			<tilt>75</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>500</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_6E0CBA2E4811BFA9D4C1</styleUrl>
+		<gx:Carousel>
+			<gx:Image kml:id="hosted_image_QUYyVEFMcXhtN3ppUDd1WjhJQVBLNlNiZXJXbk9BcEZST3lvWDlsOEY5WFVsSU9Gb0dnS1VDVmZTMWhiZ3l6TkdaZ0JLMTBNUW1zdVhwK0I1SWxIemJkZ05IRzRlYzNmY3hxRUhtdTJ5MXFraWgzdWZldGhMSnRCQzFURElza0ZTQ0JIR3M1dWFzZW5HSm9FZVpndGdrbEh4ODllOXZpMlZYdlFmUmpMMWtEQXE4QVBHRktDcnNwcGZCTjcxUCs5WXNtbnVvS1dtL1d6L2luWGhkSlcyc1kycS8xV0E0dGY2TjBGNDhsQ2J0Qm1RMGN2R1Q5ZG5WYmRLTm5xc1RubHU4WlZQWHE5OWxMVGt5RmtuRFduSmQ5M0g3ZEJVRlNKd1E9PQ">
+				<gx:ImageUrl>https://doc-0o-0k-mymaps.googleusercontent.com/untrusted/hostedimage/24k6iaklmljp4bpqgc1f0lrsds/4k2ho3polgvpgra2jrn1q6tl1c/1582867503750/Ys8uGmgOGwLpmMOOFso3QAVz-ncm48wh/03000459418287252325/5AF2TALrnxvoQmtyIumwYSIsDaJwPOsSfSBEhCB6OerYdNLI38hcfvSopFyDxihnh7jZqQwFhLCAIRejhSt9amuNBW5FF9yHF3ZoU-VV4mb7xVoJIlJHNsJUh0IokQGQqVNWSVbtmmOxrhYT9JrLU7LtCyB7snk0_bKikBAQFDAK-V3tx_f6TzK6dS2Os2lZUhikEqMhLPLqbfgISUncf9YhiGZzR9HIXj4g5GKF9RI3fJn8XsjFTxOM0jbvNbEFdOy5RfvmtR25Sfr8vWzsSqPT-ktMYm-YXTQ?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+		</gx:Carousel>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-87.4574897,20.1522214,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="087C2D18B41182130643">
+		<name>Kanan Tulum</name>
+		<description><![CDATA[<div><a href="https://www.google.com/search?q=kanan+tulum&amp;oq=kanan&amp;aqs=chrome.0.0j69i57j0l3j69i60l3.2698j0j4&amp;sourceid=chrome&amp;ie=UTF-8">Kanan Tulum</a><br></div><div>Adults only hotel<br></div>]]></description>
+		<gx:mid>/g/11h41v12zk</gx:mid>
+		<gx:fid>0x8f4fd1078851dd4f:0x869258734505ac8b</gx:fid>
+		<LookAt>
+			<longitude>-87.4582195</longitude>
+			<latitude>20.150691</latitude>
+			<altitude>0</altitude>
+			<heading>200</heading>
+			<tilt>75</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>500</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_6E0CBA2E4811BFA9D4C1</styleUrl>
+		<gx:Carousel>
+			<gx:Image kml:id="hosted_image_QUYyVEFMbzlVbE1YOGgySnp0d3huR0cxL0tSY3VBb0lidGtxOWJjbnVPeWpKTE5WcEE0UmpwZGNNKzlOR0NRdTVlL1ZuMkk1ajJ1VGh0aFFrQlozd3kraWtiUzJkVkc2cnNXeUhjVXRFdk5DWVpXc1NRb05OUGhXczIyMUR6eWl2bEdCU216YVViZVZXLzlDcWJGTFlLc00rb0Exa0NidDVVRTZrVlZNWTZLd2tZK0pqd2lvSG5rZXU5VjlxQy9Obm5aVVRWNGJ5aXBPaEg1TWxZREJQaVJwdWE5NmgrYjBDMUFHQW5abHZXNitBTjJNa0xibjRoUVhwWXJiUWt4M0VvakZXK0I3dW52eGtINkxqRGRSM09SRy83dkhuTmhndFE9PQ">
+				<gx:ImageUrl>https://doc-0s-0k-mymaps.googleusercontent.com/untrusted/hostedimage/24k6iaklmljp4bpqgc1f0lrsds/mtkvkbm48j41pqp4hcta13nfps/1582867503750/Ys8uGmgOGwLpmMOOFso3QAVz-ncm48wh/03000459418287252325/5AF2TALqKRenQV-FE-PSlVKw4L02iAV1_v7y_WMGs0k8CdG0GacvG9OftZDofU9N7mQGIWrAVf7B7qSNnYnfkmk4qgpi_ika0_jPMQnDpl5v5-MCHNAFFIwKj7X3ucugpr3rAKMt2mjPfawwfBarLDSjCrHo3nJvHp9SR7nUDeFUSWENEyqa55hFJ4YLNxIUdg6dibgtJe3qaWlYcT8FrrRxKOOX9xp_g_F8w9xjNgR13LpKwG0b7ysX5d8UlQXk2yHTSruMwL_xjYQFAoemNuZwX7c3KwKJyzw?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+		</gx:Carousel>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-87.4582195,20.150691,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="01DD7E37141182124345">
+		<name>La Zebra Hotel Tulum</name>
+		<description><![CDATA[<div><a href="https://www.google.com/search?q=la+zebra+tulum&amp;oq=la+zebra+tulum&amp;aqs=chrome.0.0l6j69i60l2.2997j0j4&amp;sourceid=chrome&amp;ie=UTF-8">&nbsp;La Zebra Hotel Tulum</a><br></div>]]></description>
+		<gx:mid>/g/1tl1phnp</gx:mid>
+		<gx:fid>0x8f4fd0b550a861bf:0xe47700cf4ba0149</gx:fid>
+		<LookAt>
+			<longitude>-87.45981549999999</longitude>
+			<latitude>20.1453997</latitude>
+			<altitude>0</altitude>
+			<heading>200</heading>
+			<tilt>75</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>500</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_6E0CBA2E4811BFA9D4C1</styleUrl>
+		<gx:Carousel>
+			<gx:Image kml:id="hosted_image_QUYyVEFMcEhIYUNzaXhubnNSK0YxK0hFb2VQd3B4TGtyNUNkeW9wbkMwR2xhS25RNmplUUMzNVNhcmlRa0RQbU84Ni9aNmF3c2dIbzFGcTVKWDVBQUxBYnVFSDBmV0RvMDR1TitQa2Y0Z1N2MlNzbTB1YTlWVStHTFFqL3Fya0JrbCs3VjJpYXZCbWpBcjB2UjBiRldubi9GRTlFdlJ1QjRJbHBFSmZxQUcwYTQzQmNUVGhQSUtHMWlWNlVWTG85RmVGOEhvcWZMZzdnRExEZXBhWHl4b0JWY3R2ek9xSjFKY2tLUjAxdGluU1NLYlJlL1ZNZjYyRDZyaCtmV3JNN21hd1c1TjdJMHVSRVJIYmVQVVpZYm00TmZjVVV6UWFZMlE9PQ">
+				<gx:ImageUrl>https://doc-08-0k-mymaps.googleusercontent.com/untrusted/hostedimage/24k6iaklmljp4bpqgc1f0lrsds/6p6d3v7r5sll3b7hov4eu0sgtc/1582867503750/Ys8uGmgOGwLpmMOOFso3QAVz-ncm48wh/03000459418287252325/5AF2TALogG09pBcSfikR2cgEqWIvvRKIPI0cTgI0A8t9FbhaIYRXegKswYeNUBHVpSSDQDI3XWrDyQOQkCiXb3GaSviO5R1M-EFVnD-pIqKnQ_01no5gbsyZnOtXHO0C2MMS41XsVdBHI3H0tokUHyaEUi6_3CtFSf_0oji_bq9ryCDu_R647UVyzgMA4s-iFV-WbzQNWBc_hfb86nxNAbFdneOow0cBCG36gEPqnFBiJG5qWCl1JRySlp0lGVLGeIq0cO0Mhts0bhXdnbKfsUC9zWbcNp6PWoQ?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+		</gx:Carousel>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-87.45981549999999,20.1453997,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="02974D66C1118212B8A6">
+		<name>NEST Tulum</name>
+		<description><![CDATA[<div><a href="https://www.theperfecthideaway.com/nest-tulum">Nest Tulum</a><br></div>]]></description>
+		<gx:mid>/g/11cmgcmc_4</gx:mid>
+		<gx:fid>0x8f4fd7567bb8255b:0x9a7b6bb7b2e2e53e</gx:fid>
+		<LookAt>
+			<longitude>-87.46262929999999</longitude>
+			<latitude>20.1377998</latitude>
+			<altitude>0</altitude>
+			<heading>200</heading>
+			<tilt>75</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>500</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_6E0CBA2E4811BFA9D4C1</styleUrl>
+		<gx:Carousel>
+			<gx:Image kml:id="hosted_image_QUYyVEFMcDFvYXJFSVdlWDhRd0h6cFpzRG54b1hTQ2xSaU1RRnNCTHVVTGw3OUdKNVBGRVFFNkt6WFFsa2ErT2cwTmlyMFlJbjNOYVZObVBtVldmN0ErOWFkaFZJTk41OUl5ZTZhZ3RVTVVlNnJoVGdvVnI5ek5MQU5YZ3dRWFNZTVlZWnlxQzBCaHloV2dza0xFWlhXNCtBNjBPY0hHd3luK09yQnQyc3FuenF3N2xhUVlmLzlTRlU2blZJVVJDZEVJeVBqRUtuMW93TmQxNmlKZVVLODJhSVovdExtY1YzNi8zeFdIWEhTMGlQTEQzWVZ4RGhiTHRlSEdtODdqTGUxeWk2OW1lbXdNdTJNaGxUTDlnSXR6REo3bTluWVRlTXc9PQ">
+				<gx:ImageUrl>https://doc-08-0k-mymaps.googleusercontent.com/untrusted/hostedimage/24k6iaklmljp4bpqgc1f0lrsds/eqlmeac1kovbnonrj5gavocvm4/1582867503750/Ys8uGmgOGwLpmMOOFso3QAVz-ncm48wh/03000459418287252325/5AF2TALoJrQL23c-BeTqCJY9uNTM-D6osZrAmtOazcv-tSS5Z2_p-6JQlOIXouD3umsO9keNDxEMGE7d2NgatUPf3LCMpZ-PsCLE2-O-ib8vW_FYZsxRTIsscb5YmXTdZGzg_lTdILsEx48l1M3qAkjkhEYjy7peupluJXF3dYUVMcQ_bcA6cs2fu6GWyg4Z96in2O0OtmDy1yNpb0dkg2e_fm5SDDbW4p6InYlPn0YdQusJZRGqJMUn3NHWzIHBLLkxZfoABsLD4I3p5f7lILS9eMp1cCfd9Mw?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+		</gx:Carousel>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-87.46262929999999,20.1377998,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="09E7AF76C6118214FFC2">
+		<name>Be Tulum Hotel</name>
+		<description><![CDATA[<div><a href="https://www.google.com/search?q=be+tulum&amp;oq=be+tulum&amp;aqs=chrome..69i57j0l4j69i61l3.1410j0j4&amp;sourceid=chrome&amp;ie=UTF-8">Be Tulum</a><br></div>]]></description>
+		<gx:mid>/g/1ydpmhw76</gx:mid>
+		<gx:fid>0x8f4fd0cb15c3b61f:0xa7a805cb37f91057</gx:fid>
+		<LookAt>
+			<longitude>-87.46357669999999</longitude>
+			<latitude>20.1367376</latitude>
+			<altitude>0</altitude>
+			<heading>200</heading>
+			<tilt>75</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>500</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_6E0CBA2E4811BFA9D4C1</styleUrl>
+		<gx:Carousel>
+			<gx:Image kml:id="hosted_image_QUYyVEFMcFkwWm5WeFdzeWJ0c2dVaHd1eWZLSll2U1RBWURjMEhJNnBBelRIT2FDMW9zMytaZkJtWHJQQ3dvdUhaejFBWW5MVEJVeDQvQWRzekRFMzFCTS9pOC9TMTVIdEd0SE5pY2lSMXozTFZHRFZ5cWo4UG1EUXJVZ3hkcmF4dVpzWGJtZC9BOGg0VW41Y1B6eUZTQUxrbFFLL29QWG10QXFxaVBHMG83dDVoM0xQUHRxZXdnSWVVOVh1MVFMVUQ3TDhrN25nZWFYVlhYQWRlZkRwM016aFpPZ0UwOFB5UVM3RUVNSlNUTHVtUm9QWlJoUnNERGdvbU1PVmFrVnBLNDYveVRWS3FlbkZqK2dtaXdGMWluZ0NHcUZHRmNTNVE9PQ">
+				<gx:ImageUrl>https://doc-0k-0k-mymaps.googleusercontent.com/untrusted/hostedimage/24k6iaklmljp4bpqgc1f0lrsds/0il2eukmtvmtfr7mn6frf2mbfk/1582867503750/Ys8uGmgOGwLpmMOOFso3QAVz-ncm48wh/03000459418287252325/5AF2TALpTpLT8muRYG6exWdqYoY6xw8h0i0o_g8kZs_UVmFAvyioHb62RazqsgRGYe6cIYmPI8svc2KV4Qnj9aiQGYY0YW4zLsxHYQdpYar974wz9ON59Ky4TmQOat7MfQoa26QmJ8KR53PQ62LtdAJ_q5dUSV6VQMnjsNDgoLXLUqXKv83rlkqPIqO8NooIPShblbXGJJpc8PiSSsgNrNZIlZCj3jAdjjzddB8V4WZOIbXc5H9vzNG8THyoAar_1kjEkA8D4d_6mhvgeioqxnL6UDCnXEcY8Hg?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+		</gx:Carousel>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-87.46357669999999,20.1367376,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="093CFF6EA81182127228">
+		<name>Nômade</name>
+		<description><![CDATA[<div><a href="https://www.google.com/search?sxsrf=ACYBGNQIeCA0SXJW6J4zZlib3pgOLKg4tA%3A1581835550286&amp;ei=HuVIXqGKEYWKtQWZkJzICw&amp;q=nomade+tulum&amp;oq=nomade&amp;gs_l=psy-ab.3.0.0i20i263j0i273j0j0i20i263j0l5j0i10.3680.4186..5418...0.3..0.296.731.0j1j2......0....1..gws-wiz.......0i71j35i39.76tkAmv1GqI">Nomade Tulum</a><br></div>]]></description>
+		<gx:mid>/g/11c0phmr60</gx:mid>
+		<gx:fid>0x8f4fd74d982f2dc7:0x5112c9052be342ef</gx:fid>
+		<LookAt>
+			<longitude>-87.46346199999999</longitude>
+			<latitude>20.135454</latitude>
+			<altitude>0</altitude>
+			<heading>200</heading>
+			<tilt>75</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>500</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_6E0CBA2E4811BFA9D4C1</styleUrl>
+		<gx:Carousel>
+			<gx:Image kml:id="hosted_image_QUYyVEFMcGp0Z0h3MDI1a3IzcDh0Zk4yS011OFVDejUrV1J5RHNUc3VlVnEwWmFCdjBsWVJqUUZiaFhjbFh1WTlJKzhoS1E3dGJDcGlKeXZHeGpjV2hkc3dadHdEUktjTDZBQm9FY0J2dytHTndBMnJZb0JyNUJpSVVPQmQzV0VyeVBlODBiSWtHS2pONkV5czFDTDV0Tit2bjYvbFVrUDd5U2VaWVhsbDBhK3c5cmpjdHVDRU9jWnN4cGwzVzB4OTcvK2M3WmxwVGJRbXpXb2RIZ1pKVU9Oek56WVpuZW1NMTc0K1VoclRnSU1XNVB6dnEweEZaY1VtQXg2N0w0blRPb2lKSnpXeUJUVHJzdjN3ZDZqL09kZ2l6VmNxck9KZlE9PQ">
+				<gx:ImageUrl>https://doc-0c-0k-mymaps.googleusercontent.com/untrusted/hostedimage/24k6iaklmljp4bpqgc1f0lrsds/gg9flgtgbuph00itcc1rlfo194/1582867503750/Ys8uGmgOGwLpmMOOFso3QAVz-ncm48wh/03000459418287252325/5AF2TALoz2msTaPN854crT-Ks3Bywqod0SP-ky4UcFiWNh4AcS4qJJN4kSWkI6cSuF2BLSw905bxhcfVeLMi1W1rY6Nf2r02cX-e7ANVlIEMS7MjTWcwBgAtq0xzyZJPRFEJZdeadNLLidWYKp7_WnS44dgf0sf9L87iTIoz3IIqumdx56Z6mvdWmS0cVB8hbteWitZaKke14zQmotOPcO0veIo4YPhvTbjTlFjkbGwwVEZzkI3ZkfL_J5T8QzI1c_SqkhIv8wF7rHU6QKaCF186s4Uouhainlw?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+		</gx:Carousel>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-87.46346199999999,20.135454,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0EA98AFAAB118211FB9E">
+		<name>Los Amigos Beach</name>
+		<description><![CDATA[<div><a href="https://www.google.com/search?q=los+amigos+beach&amp;oq=los+amigos+beach&amp;aqs=chrome.0.69i59j0l4j69i61j69i60l2.1979j0j4&amp;sourceid=chrome&amp;ie=UTF-8">Los Amigos Beach</a><br></div>]]></description>
+		<gx:mid>/g/11g02t0qhv</gx:mid>
+		<gx:fid>0x8f4fd753d537f315:0x2ceb9f7e2dd3ea1e</gx:fid>
+		<LookAt>
+			<longitude>-87.4651226</longitude>
+			<latitude>20.1316114</latitude>
+			<altitude>0</altitude>
+			<heading>200</heading>
+			<tilt>75</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>500</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_6E0CBA2E4811BFA9D4C1</styleUrl>
+		<gx:Carousel>
+			<gx:Image kml:id="hosted_image_QUYyVEFMcGhNMVMzbGNpSVZ6eE9GSjBBTGl2Mmc3QzU4UDNpcGliaWt5Z1hsdlRQTnp6d2pscWxDNlhocDNPaVpSSXdreTRoVGZOSWl1TVcvOFFBdTg3RUl4dVdsem1PRGZmTHYzcFdPL1BxWlN5QUFud0JFWGFPdzMrMFA4S0RFeGoyOXpRV1ptaFIwdUFDeHJLSW01cFczRXU3ODBGQ0hLNFIyMnFkOVMzYXc4ZVJ5cFlyN053WFM0UzJzUHF0MWpTRGMrMjUrQWtOeWRzTkNtN1QrbTloMUhoYjJSdjhhbm5xRjF1WFBTbDF1bVFxdk5BQnV0UVZyc0NnOTg4TjBYMGg3bmk1VXBIbEZ2VGpkZjBQUGxuZ2JEUkJTTVNaWGc9PQ">
+				<gx:ImageUrl>https://doc-00-0k-mymaps.googleusercontent.com/untrusted/hostedimage/24k6iaklmljp4bpqgc1f0lrsds/up2qn6klp1ev4usluvgoqmrb68/1582867503750/Ys8uGmgOGwLpmMOOFso3QAVz-ncm48wh/03000459418287252325/5AF2TALrhWBeJHsTz21DDwruCdp9MDWdpYblPu7mMjZ1eH9raMj9jxjmVYK78VzuhM9KuMxs3Fl9UOWy8GQD21D7CB1hxe5EhZEEhsg3K8cYd-L5fqwemSPAq5PXzizRUOYIacRL6iJRinjJEUKuWAqZnq_iz4yRgRpyENCiUYsTp_2ShK2gmBQ8nmzUjlvp6lflKGeUZkFGxhhgn2MHQIkYMCVskCo6cGYqUtwxZVBlmSBwqhjOZdE7YwpbkYY-jdLmOf8DCfslHevd4maWEE4E5MNbcsOMq4g?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+		</gx:Carousel>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-87.4651226,20.1316114,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0AC854688811823ADD87">
+		<name>Arco Maya</name>
+		<description><![CDATA[<div>Just got your tax refund?&nbsp;<br></div><div>Looking to live very large with a group of 7-10 of your closest friends in fully-staffed, breath-taking villas on your own private beach without neighbors for miles? <br></div><div><br></div><div>Then proceed past the Arco Maya, the entrance to the Sian Ka'an.<br></div>]]></description>
+		<gx:mid>/g/1ptwgzsny</gx:mid>
+		<gx:fid>0x8f4fd756aad96a17:0x817ce6c336f46540</gx:fid>
+		<LookAt>
+			<longitude>-87.46547919999999</longitude>
+			<latitude>20.127961</latitude>
+			<altitude>0</altitude>
+			<heading>200</heading>
+			<tilt>75</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>984.7522771779066</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_02F83A3AED11BFA9D4C2</styleUrl>
+		<gx:Carousel>
+			<gx:Image kml:id="hosted_image_QUYyVEFMcWVKSDNqTDNxbTBlN24xcFRGbzhCVysvT09YNGlVajZPajhYNGRZY0VuWmJGbGMrYkNKZ1ZVT2t6V3E0RUdVNjcxOFU2QllieU9JNTBQbjZsVDdJbWpmdzRvQm1YQTlrVTNvVHlIUzFSbTZBdy9McVpMek52Tk5Mb1hSaWFjU3dTbmZZSnVzbWRQRmRUMmlrMTduQW1ZWmZBQU9NeWtuQ1ZYMU5zRnU4MysvNUhDbUlRRkdlc3BvVnRUM2dEekVvRTBjTzgrWnNoZjk2Yk5rUEhzWXlHTnNsLzE5VEtINFRUcnQ5dDhOQW9jNzZiQm9zMUIvVFpwbzZNcXFTZGI4N3ZvUlFkUCtGUjdFWDJQRVFUdGpYR1VwbkZIWnc9PQ">
+				<gx:ImageUrl>https://doc-0c-0k-mymaps.googleusercontent.com/untrusted/hostedimage/24k6iaklmljp4bpqgc1f0lrsds/daho8028rmvoh8t7jvp3o55750/1582867503750/Ys8uGmgOGwLpmMOOFso3QAVz-ncm48wh/03000459418287252325/5AF2TALqw3m5zXOlvQB5LKWoFlYfHpi4eJZ_L27P2D4r1DAUplYxnHQd5z_ntscl2J1vBTxPutH69jFycbWIzBm1AVA9cAL3HIZr4A63k0JY-46FvVOWE7o9QxBYn9gFgThRRd-yHqJ2NEOW806v5_500cu5Ach4LzeWrPheECIAtsYJkFCbekVNM1zCtC4K42kNPOaIJnBK_I_-e-083XLcIVdhC6Capk34msR2yNqhGHMOXkYlBpY2u3ST6m2wRsonzIxlIDVRzBSnjQepxizyStqEQE_LjUw?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+		</gx:Carousel>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-87.46547919999999,20.127961,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="06FBF30D1711BF5E5441">
+		<name>Casa Maya Kaan</name>
+		<description><![CDATA[<div><a href="https://casamayakaan.com/">Casa Maya Kaan</a><br></div><div>Not only can a group rent this amazing house (that comes with a staff and meals), but they can set up swanky tents along the trails on the property if your crew gets even bigger once they see where you're staying.&nbsp;<br></div><div>This property is about 10 minutes past Hacienda Chekul.&nbsp;<br></div>]]></description>
+		<gx:mid>/g/11f62ryxd4</gx:mid>
+		<gx:fid>0x8f4fd919e8fb891d:0xfd337e848b02ab21</gx:fid>
+		<LookAt>
+			<longitude>-87.4799457</longitude>
+			<latitude>20.0413103</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>75</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>985.358772633324</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_37889DA6C411BFA9D4C1</styleUrl>
+		<gx:Carousel>
+			<gx:Image kml:id="hosted_image_QUYyVEFMb0Zndkt3b3VDSUV1UnI2VTRhbHVoamVBdG5vTTRsNDYxamtkTnM1akQyMDk5QWVEUC96M3NsSjRlNktwSm9xS2RLLytGRE5EdldsejhvUXlXOWd5S3pYa1FGVTU1UTAvcFY3Uk9vTEJwQUdzQWhETUdlYWJCVi9tUmV3aFkrbEx2MDVZL0xlUkxYS1BNRjRzdmRQellWdk5LMnpIUGlUQktRcGVZcnJUSERZQkZuc1RSV1NBekNoRkcwU21UK0dGRUJZRkNMUXRRVHY2a044V1NyNFM2dWtHZWRWV0xJVk1HS1p2SWxVN1prSWo3MjA1bFkvM2RZNlp2UlJRTmhWMytoNi9RY1lPVktvMlEyMWJoWmpGamFLZmdCVWc9PQ">
+				<gx:ImageUrl>https://doc-04-0k-mymaps.googleusercontent.com/untrusted/hostedimage/24k6iaklmljp4bpqgc1f0lrsds/8sp9fko2mogck5e8qlhjo7rvng/1582867503750/Ys8uGmgOGwLpmMOOFso3QAVz-ncm48wh/03000459418287252325/5AF2TALprD7oMd_QdQHTEl3CnyATWF4UJUKIWpG5w_w0GKQ8LpS6kUub-C3loxYRjT0Mkidj_1Q0YxesILT1cpCNAA70dQgY2tB4hsaFcDALwxcHn2Clga6E5Do7tuFsI4HcWZ0un0gxexZWIZIHWAkMkyoDipWJ08kGnK05CA3pCy87VfJCmmEfH6YxjrMnMo-XOvqAFXiDUELJJzgZl1jCFpvRydHGmdly79dMuRhENPlXeKV3_MEvuSedUnR9pPHM3tw09-PyEVHGWwRipOTcePvJwuHMjdA?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+		</gx:Carousel>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-87.4799457,20.0413103,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0FCA298F9611BF5DFCC5">
+		<name>Villa Na&apos;iik</name>
+		<description><![CDATA[<div><a href="https://www.naiik.com/">Villa Naiik</a><br></div><div>Easily the most beautiful house we saw on our visit, this house sleeps 8 and comes with staff and meals. The downside is the distance. It's 15 minutes past Chekul, and so 30-40 from the hotel zone near the beach. But that's okay because you probably won't want to leave to go anywhere except the wedding.<br></div>]]></description>
+		<gx:mid>/g/11c2p7g_8k</gx:mid>
+		<gx:fid>0x8f4fdeb8252b7025:0xaad2bcce87ae946a</gx:fid>
+		<LookAt>
+			<longitude>-87.4785732</longitude>
+			<latitude>20.0146492</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>70</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>2000</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_37889DA6C411BFA9D4C1</styleUrl>
+		<gx:Carousel>
+			<gx:Image kml:id="hosted_image_QUYyVEFMcnpsdXVpK0x5SUFnYkI3T2V3WmtSQUFoQ09ScmNPdU92LzFXSkJaNnUzWk9PdlFoMTdiaXRvVVMrbkJlRkhLdFZISkxMdWhCODJ1YlRRSkV3U1RzZXI0S2lJRFphUGg3dW0yWXhJajhyWGtzTTZRTGR6SVFDaFNuMGdtSlJ2cFdWajFFM0JoRDNMSU0zK1FtTkJhZWhUeDBDQXkrcklyOU50Ni8zNHdhTitpQkxjWEloV25sa2YvUWRQOW5wVUNJN2NkL2pJaitVa3k5NWd3NUlTV3FCL21EMi9wS2hCZk5NYUxxSkhqU2tZQXkwaHl4VVUyL0pOWDk0dFRBZG9CT0tpaXNLd1ZxZlE3aksvWkRaOWxibjFLWldUUlE9PQ">
+				<gx:ImageUrl>https://doc-00-0k-mymaps.googleusercontent.com/untrusted/hostedimage/24k6iaklmljp4bpqgc1f0lrsds/uil8e5e724h8k1r8vgmlp0acr8/1582867503750/Ys8uGmgOGwLpmMOOFso3QAVz-ncm48wh/03000459418287252325/5AF2TALpQZTdsWhAf7T6TK9RCYG8vJEkAhtktn7wkiDz7JHOpmZBpFLEAwpMSGuvj_op7J1ZCYJUDdZSqjFsIM0mcQCtlLIz3onkCM5x26r5WzXk45EVqDxs-2hWTKS_tPTQ3R5pGCgJFhgnHVf_rRILnzaWxWQCBfqjYfsh12G2D13VyXt4yt1W8_kkBDSifY3UhVs6fKnTCOssW_uY88OBo65UTG-eDKzOfIJhEKVIkgYG4UmsM5ZGPpIbGU4xW77hT6YLvPKyXMinB66HVYfoBEJBjEvc8Ow?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+		</gx:Carousel>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-87.4785732,20.0146492,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="00EE887CA311BF909B7A">
+		<description><![CDATA[<div>See you in November! Reach out to us if you have any questions or want to run your plans by us.<br></div>]]></description>
+		<LookAt>
+			<longitude>-87.4654792</longitude>
+			<latitude>20.127691</latitude>
+			<altitude>5.4726932</altitude>
+			<heading>25</heading>
+			<tilt>50</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>90000</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_030E595E7811BFA9D4C3</styleUrl>
+		<gx:Carousel>
+			<gx:Image kml:id="hosted_image_QUYyVEFMci9vRDNYVmF3c3A1dnBLdlFuZUl2Sjlmb1JmT3ZXNTlRRVBZTjRuSENaMlpITVdQaGt0SnpYYzlCUWFtUngrOTdVU3U5Ymp4Y1hGODIxQXFmNGJHQUg1NkxScXdkQTBYRm10b3BMK1RPSktCMjJRYlM5Rk9WTGtpVldCVXNSSmVOeHdPMUNnRHpLeE1WNkhpTWcxN2lRbzlVZ2NYRENORkI2Ti9YUFBnc0tjRDZUWU1nV1dGV1diR2FkeUpyMkFxMkdyVkZVK3gzallrNSs2RmxZN2FRYnNXWk9zU2dBR0VWV3JjcTZZdExLa2UyRVJQK09QWm5kRVJQS0dtWkt6MTVucmVic1R0YndDYkxiWENRY0JQV3BBME1jaWc9PQ">
+				<gx:ImageUrl>https://doc-10-0k-mymaps.googleusercontent.com/untrusted/hostedimage/24k6iaklmljp4bpqgc1f0lrsds/teahajibed6o3ev7phfk5bpj2s/1582867503750/Ys8uGmgOGwLpmMOOFso3QAVz-ncm48wh/03000459418287252325/5AF2TALpIfrQ7acLSajZAUSEE56OEW5RTOdsApZaOEiticF0R5tpOH9m_yE2Pi5uE9blTSxY7WgEP_hLgi4mwBzv3jRhTAAe8697GgIh5pVYrhS5J3sHPeqr7W48OoR1byFPyAjdnmPS585oAWh4KAxMId2_G61_8KcZ0v5KmaK7kAURwqB63SASMp0pvf8N6DBscJEsX_wuR4sLOIsUh9nqIm7YLSgx6YKzmfMT4JuQ4cewA1R9xtBVTM9kbJojIWKlXjUaMTWmY4Sk9tpfcJ3EmNevl8R1SDQ?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+		</gx:Carousel>
+		<Point>
+			<coordinates>-87.46799276693139,20.11477922888601,5.422729814019192</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>
